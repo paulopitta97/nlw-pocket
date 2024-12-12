@@ -2,9 +2,9 @@
 
 ### Projeto desenvolvido durante o NLW Pocket da Rocketseat em Dezembro de 2024 (Trilha React Native).
 
-- Imagem aqui...
+![image](https://github.com/user-attachments/assets/2561f705-03f8-4fa6-8fd8-cd3a81a2f8c8)
 
-- Consiste em um Aplicativo...
+- Consiste em um Aplicativo chamado Nearby que possibilita um usuário a encontrar estabelecimentos próximos através de um mapa com as devidas marcações, além de acessar informações e escanear QRCode utilizando a câmera para utilizar um cupom de desconto.
 
 - Tecnologias Mobile: `React Native`, `Expo`, `React Navigation`, `React Native Reanimated`, `React Native Gesture Handler`, `React Native Maps` _<small>(com marcações)</small>_, `expo-location`, `expo-camera` _<small>(com leitura de QRCode)</small>_, `axios`, etc.
 
