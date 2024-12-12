@@ -14,7 +14,8 @@
 
 ### Links Úteis:
 
-- [NLW POCKET | Guia do evento ](inserir_link_aqui)
+- [NLW POCKET | Guia do evento](https://docs-rocketseat.notion.site/React-Native-Multiplataforma-149395da5770808bada7e6dd3dce7526)
+- [NLW POCKET | Material Complementar](https://drive.google.com/drive/folders/1oTq8-gdr0zKjvyOF5T3u_1UXVYwQaSGh)
 
 ### 📝 Licença
 
