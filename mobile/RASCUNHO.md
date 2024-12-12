@@ -12,13 +12,6 @@
 
 <hr/>
 
-### PARA RODAR A API:
-
-```
-cd api
-npm i
-npm start
-```
 
 ### SITE para gerar QRCode:
 
